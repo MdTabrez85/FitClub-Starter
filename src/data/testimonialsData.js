@@ -7,19 +7,19 @@ export const testimonialsData = [
     image: image1,
     review:
       "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
-    status : 'ENTREPRENEUR'
+    name: 'MD TABREZ',
+    status : 'DEVELOPER'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
-    status: 'COACH'
+    review: 'When Life Gives You Pain,GO TO THE GYM - The FitClub',
+    name: 'Virus',
+    status: 'Designer'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
-    name: 'FRANKLIN',
+    review:'“ITS A VERY CLEAN, LOW KEY GYM. FOR ME IT IS CLOSE TO WORK AND I LIKE THE CROWD.”',
+    name: 'Mr.A_Wali',
     status: "CUSTOMER"
   }
 ];
